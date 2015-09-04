@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\Service\Service\bin\Debug\Program.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Service\Service\obj\Debug\Program.exe
+c:\users\admin\documents\visual studio 2012\Projects\Service\Service\obj\Debug\Program.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Service\Service\bin\Debug\Program.exe
+c:\users\admin\documents\visual studio 2012\Projects\Service\Service\bin\Debug\Program.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SneakyService\SneakyService\bin\Debug\Program.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SneakyService\SneakyService\obj\Debug\Program.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\SneakyService\SneakyService\obj\Debug\Program.pdb
